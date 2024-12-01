@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.3.0"
+  },
+  "name": "hono-advent-calendar-2024"
+}
